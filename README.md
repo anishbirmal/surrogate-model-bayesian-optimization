@@ -6,7 +6,7 @@ It also includes **multi-objective Pareto analysis**, **uncertainty-aware top-K 
 
 ---
 
-## What this does (high level)
+## What this does 
 
 ### 1) Surrogate model training + selection
 - Trains and compares surrogate regressors (e.g., **Gaussian Process**, **Random Forest**, **XGBoost**)
