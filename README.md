@@ -76,7 +76,7 @@ If you want a quick visual tour, start with:
 
 ### Option A: Run in Google Colab (recommended)
 1. Upload the notebook to Colab
-2. Upload your dataset CSV (if not included in this repo)
+2. Upload your dataset CSV 
 3. Run all cells to reproduce outputs
 
 ### Option B: Run locally
